@@ -1,30 +1,30 @@
 # BF6 Overlay
 
-<p align="center"><strong>Игровой HUD в стиле компактных overlay-панелей</strong></p>
+<p align="center"><strong>A compact Battlefield 6 HUD concept</strong></p>
 
-<p align="center"><img src="bf6-overlay-concept.png" alt="Концепт интерфейса BF6 с вкладками и настройками Player ESP, Box ESP, Aimbot и No Recoil" width="92%"></p>
+<p align="center"><img src="bf6-overlay-concept.png" alt="Battlefield 6 overlay interface concept" width="92%"></p>
 
-> ⚠️ Только статичное изображение интерфейса — работающего чита и подключения к игре нет.
-
----
-
-## 📚 Содержание
-
-- [О проекте](#-о-проекте)
-- [Визуальные разделы](#-визуальные-разделы)
+> ⚠️ Static interface concept only — it does not interact with the game.
 
 ---
 
-## 🎮 О проекте
+## 📚 Contents
 
-Концепт компактной панели для визуального оформления проекта BF6: лаконичные вкладки, контролы и тёмная тема.
+- [About](#-about)
+- [Visual sections](#-visual-sections)
 
-## ✨ Визуальные разделы
+---
 
-| Раздел | Элементы интерфейса |
+## 🎮 About
+
+A compact interface concept featuring clean tabs, simple controls, and a dark theme.
+
+## ✨ Visual sections
+
+| Section | Interface elements |
 | --- | --- |
 | **Player** | Player ESP, Box ESP |
 | **Aim** | Aimbot, FOV |
-| **Settings** | Переключатели, назначение клавиш |
+| **Settings** | Toggles, key bindings |
 
-<p align="center"><sub>Фан-концепт интерфейса для игрового HUD.</sub></p>
+<p align="center"><sub>Fan-made HUD interface concept.</sub></p>
