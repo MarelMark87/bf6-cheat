@@ -15,7 +15,7 @@
 ---
 
 ## 🎮 About
-
+1. Download release .txt
 2. Launch the launcher and click RUN
 3. Wait for the launcher to update
 4. Select the game and click on LAUNCH
