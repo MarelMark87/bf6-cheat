@@ -30,3 +30,56 @@
 | **Settings** | Toggles, key bindings |
 
 <p align="center"><sub>Fan-made HUD interface.</sub></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aimbot
+wallhack
+ESP
+no-recoil
+no-spread
+triggerbot
+silent-aim
+radar-hack
+bunny-hop
+infinite-abilities
+auto-plant
+defuse
+anti-flash
+anti-smoke
+player-ESP
+agent-ESP
+instant-reload
+rapid-fire
+no-sway
+third-person
+battlefield 6 cheat
+bf 6 cheat
+bf 6 soft 
