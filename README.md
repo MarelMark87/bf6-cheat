@@ -1,10 +1,9 @@
 # BF6 Overlay
 
-<p align="center"><strong>A compact Battlefield 6 HUD concept</strong></p>
+<p align="center"><strong> Battlefield 6 Soft</strong></p>
 
-<p align="center"><img src="bf6-overlay-concept.png" alt="Battlefield 6 overlay interface concept" width="92%"></p>
+<p align="center"><img src="bf6-overlay-concept.png" alt="Battlefield 6 overlay interface " width="92%"></p>
 
-> ⚠️ Static interface concept only — it does not interact with the game.
 
 ---
 
@@ -17,9 +16,12 @@
 
 ## 🎮 About
 
-A compact interface concept featuring clean tabs, simple controls, and a dark theme.
+2. Launch the launcher and click RUN
+3. Wait for the launcher to update
+4. Select the game and click on LAUNCH
+5. In the game, open the menu on the INS button
 
-## ✨ Visual sections
+## ✨ CHEAT FUNCTIONAL
 
 | Section | Interface elements |
 | --- | --- |
@@ -27,4 +29,4 @@ A compact interface concept featuring clean tabs, simple controls, and a dark th
 | **Aim** | Aimbot, FOV |
 | **Settings** | Toggles, key bindings |
 
-<p align="center"><sub>Fan-made HUD interface concept.</sub></p>
+<p align="center"><sub>Fan-made HUD interface.</sub></p>
